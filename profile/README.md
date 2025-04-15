@@ -24,6 +24,8 @@ We believe in building scalable, efficient, and user-centric products that deliv
 - **Mobile App Development**  
   We specialize in building cross-platform apps using **Flutter**, delivering beautiful and high-performance apps for both iOS and Android.
 
+- **Desktop Development**            Build powerful application for  Windows and Linux
+
 - **Web App Development**  
   We create robust and scalable web applications that are intuitive and accessible on any device.
 
