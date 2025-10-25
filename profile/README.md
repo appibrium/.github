@@ -59,9 +59,9 @@ Whether you're a developer, designer, or tech enthusiast, there are many ways to
 
 Feel free to get in touch with us through the following channels:
 
-- **Website**: [appibrium.xyz](http://appibrium.xyz)
-- **Email**: [appibrium@gmail.com](mailto:appibrium@gmail.com)
-- **GitHub**: [github.com/appibrium](https://github.com/appibrium)
+- **Website**: [appibrium.tech](http://appibrium.tech)
+- **Email**: [hello@appibrium.tech](mailto:hello@appibrium.tech)
+- **LinkedIn**: [linkedin.com/company/appibrium](https://www.linkedin.com/company/appibrium/)
 - **Facebook**: [facebook.com/appibrium](https://facebook.com/appibrium)
 
 
