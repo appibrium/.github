@@ -6,7 +6,8 @@
 
 # Appibrium — Engineering the Future
 
-
+> **Engineering the Future**
+>
 > Appibrium is an engineering company that designs, builds, and scales intelligent technologies across software, AI, cloud infrastructure, embedded systems, and IoT. We partner with startups, businesses, and organizations to create reliable, future-ready solutions that solve real-world problems.
 
 ---
@@ -42,7 +43,7 @@ To become a globally trusted engineering company shaping the future through inno
 Our official brand assets, corporate logos, vector files, and typography guidelines are available inside our local **Brand Identity Kit**.
 
 Access it here:
-👉 **[Appibrium Brand Portal](portal/index.html)**
+👉 **[Appibrium Brand Portal](https://appibrium.github.io/portal/index.html)**
 
 ---
 
