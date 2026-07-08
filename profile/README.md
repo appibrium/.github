@@ -1,72 +1,65 @@
-# Appibrium
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logos/lockup/lockup_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="logos/lockup/lockup_light.svg">
+  <img alt="Appibrium Logo" src="logos/lockup/lockup_light.svg" width="340">
+</picture>
 
-## Shaping the Future of Apps
+# Appibrium — Engineering the Future
 
-Welcome to **Appibrium**! We are a team of passionate developers dedicated to building **innovative, high-performance applications** that elevate the mobile and web experience. At Appibrium, we don't just build apps—we **shape the future of technology**.
 
----
-
-## Mini Subtitle: **Apps. Elevated.**
-
-At Appibrium, we go beyond the ordinary. We take pride in creating apps that **push the boundaries of design, functionality, and user experience**. Our goal is to provide solutions that truly elevate the digital world.
-
----
-
-## Our Mission
-
-**To empower businesses and individuals by creating cutting-edge applications that drive success and innovation.**  
-We believe in building scalable, efficient, and user-centric products that deliver **real-world value**.
+> Appibrium is an engineering company that designs, builds, and scales intelligent technologies across software, AI, cloud infrastructure, embedded systems, and IoT. We partner with startups, businesses, and organizations to create reliable, future-ready solutions that solve real-world problems.
 
 ---
 
-## What We Do
-
-- **Mobile App Development**  
-  We specialize in building cross-platform apps using **Flutter**, delivering beautiful and high-performance apps for both iOS and Android.
-
-- **Desktop Development**            Build powerful application for  Windows and Linux
-
-- **Web App Development**  
-  We create robust and scalable web applications that are intuitive and accessible on any device.
-
-- **AI Integration & Optimization**  
-  Harness the power of **AI** and **machine learning** to create smarter, more personalized app experiences.
-
-- **App Performance Optimization**  
-  We ensure that your app runs seamlessly, even as it scales, through rigorous performance tuning and optimization techniques.
+## 🌐 Visit us at **[appibrium.com](https://appibrium.com)**
 
 ---
 
-## Why Choose Appibrium?
+## 🚀 About Appibrium
 
-- **Expertise**: Our team consists of experienced developers who specialize in Flutter, AI, and web technologies.
-- **Innovation**: We stay at the forefront of technology trends, ensuring that every app we build is future-proof and innovative.
-- **Quality**: We adhere to the highest standards of code quality, design, and testing.
-- **Client-Centric**: We collaborate closely with clients to ensure their vision is realized and exceeded.
+**Appibrium** is an engineering-driven technology company building the next generation of intelligent systems. Our expertise spans AI engineering, software development, cloud infrastructure, embedded systems, IoT, and digital product engineering. We combine research, design, and engineering to create scalable technologies that empower people, businesses, and communities.
 
----
+### Mission
+To engineer meaningful technology that empowers people, businesses, and communities through intelligent, scalable, and reliable solutions.
 
-## Get Involved
+### Vision
+To become a globally trusted engineering company shaping the future through innovation, research, and technology.
 
-Whether you're a developer, designer, or tech enthusiast, there are many ways to get involved with **Appibrium**:
+## 🛠️ What We Do (Services)
 
-- **Contribute**: We welcome contributions to our open-source projects! Check out our repositories to see how you can help.
-- **Collaborate**: Looking for a custom app solution or partnership? Reach out to us for collaboration opportunities.
-
----
-
-## Contact Us
-
-Feel free to get in touch with us through the following channels:
-
-- **Website**: [appibrium.tech](http://appibrium.tech)
-- **Email**: [hello@appibrium.tech](mailto:hello@appibrium.tech)
-- **LinkedIn**: [linkedin.com/company/appibrium](https://www.linkedin.com/company/appibrium/)
-- **Facebook**: [facebook.com/appibrium](https://facebook.com/appibrium)
-
+*   **AI Engineering**: Designing intelligent systems and features that automate workflows and enhance user experience.
+*   **Software Engineering**: Building scalable, reliable, and maintainable software for real-world applications.
+*   **Cloud Infrastructure**: Designing secure and scalable cloud infrastructure for modern digital products.
+*   **Embedded Systems**: Designing and developing customized hardware systems.
+*   **Internet of Things (IoT)**: Creating smart, connected hardware solutions integrating sensors, devices, and real-time data.
+*   **Product Engineering**: Fusing research, design, and engineering to create end-to-end scalable technologies.
+*   **Research & Innovation**: Exploring next-generation technologies to solve complex real-world problems.
 
 ---
 
-## License
+## 🎨 Interactive Brand Assets & Design Guidelines
 
-This repository is licensed under the [MIT License](LICENSE).
+Our official brand assets, corporate logos, vector files, and typography guidelines are available inside our local **Brand Identity Kit**.
+
+Access it here:
+👉 **[Appibrium Brand Portal](portal/index.html)**
+
+---
+
+## 🤝 Connect with Us
+
+Follow our journey and stay updated with our latest releases and insights across social networks:
+
+*   **Facebook**: [facebook.com/appibrium](https://www.facebook.com/appibrium)
+*   **LinkedIn**: [linkedin.com/company/appibrium](https://www.linkedin.com/company/appibrium/)
+*   **YouTube**: [youtube.com/@appibrium](https://www.youtube.com/@appibrium)
+*   **Web Portal**: [appibrium.com](https://appibrium.com)
+
+---
+
+## 📍 Contact & Office Address
+
+Have a project idea or consultation request? Get in touch with our creative and engineering teams:
+
+*   **Email**: [hello@appibrium.com](mailto:hello@appibrium.com)
+*   **Studio Address**: 23/A Shukrabad, Dhaka, Bangladesh, 1207
