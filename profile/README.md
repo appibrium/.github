@@ -1,6 +1,5 @@
-<a href="https://appibrium.com">
-  <img src="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/portal/elements/social_cover.png" alt="Appibrium Social Cover Banner" width="100%">
-</a>
+<img width="1128" height="191" alt="appibrium_fb_cover (New LinkedIn Banner)" src="https://github.com/user-attachments/assets/68e6e8bd-f324-4ac9-9c9d-e7bde9c2d211" />
+
 
 <br/>
 
