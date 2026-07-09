@@ -1,8 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/logos/lockup/lockup_w4_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/logos/lockup/lockup_w4_light.svg">
-  <img alt="Appibrium Logo" src="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/logos/lockup/lockup_w4_light.svg" width="340">
-</picture>
+<a href="https://appibrium.com">
+  <img src="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/portal/elements/social_cover.png" alt="Appibrium Social Cover Banner" width="100%">
+</a>
+
+<br/>
+
 
 # Appibrium — Engineering the Future
 
@@ -42,8 +43,8 @@ To become a globally trusted engineering company shaping the future through inno
 
 Our official brand assets, corporate logos, vector files, and typography guidelines are available inside our local **Brand Identity Kit**.
 
-Access it here:
-👉 **[Appibrium Brand Portal](https://appibrium.github.io/portal/index.html)**
+*   👉 **[Appibrium Brand Portal](https://appibrium.github.io/portal/index.html)** — Interactive guidelines & downloads.
+*   🤖 **[Brand API (brand.json)](https://appibrium.github.io/brand.json)** — Machine-readable JSON endpoint containing brand details, colors, typography scale, logo paths, and compliance rules (optimized for AI assistants).
 
 ---
 
@@ -64,3 +65,13 @@ Have a project idea or consultation request? Get in touch with our creative and 
 
 *   **Email**: [hello@appibrium.com](mailto:hello@appibrium.com)
 *   **Studio Address**: 23/A Shukrabad, Dhaka, Bangladesh, 1207
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/logos/lockup/lockup_w4_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/logos/lockup/lockup_w4_light.svg">
+    <img alt="Appibrium Logo" src="https://raw.githubusercontent.com/appibrium/appibrium.github.io/main/logos/lockup/lockup_w4_light.svg" width="280">
+  </picture>
+</p>
